@@ -2755,8 +2755,11 @@ section.blog-hero-section{
 .blogpage .blog-hero-section .navbar a,.blogpage .navbar a:focus{
   color: #fff !important;
 }
-.blogpage .blog-hero-section .navbar-mobile a,.blogpage .navbar-mobile a:focus{
+/* .blogpage .blog-hero-section .navbar-mobile a,.blogpage .navbar-mobile a:focus{
   color:black !important;
+} */
+ul.main-bottom-section.drp-down-content li a {
+  color: black !important;
 }
 
 .blog-hero-section .navbar a, .navbar a:focus{
